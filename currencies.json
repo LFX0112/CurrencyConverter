@@ -1,0 +1,16 @@
+[
+  {
+    "Exchange": "Euro to US Dollar",
+    "FromExchange": "USD",
+    "ToExchange": "EUR",
+    "Incoming": 10.0,
+    "Conversion": 11.0
+  },
+  {
+    "Exchange": "US Dollar to Euro",
+    "FromExchange": "EUR",
+    "ToExchange": "USD",
+    "Incoming": 11.0,
+    "Conversion": 10.0
+  }
+]
